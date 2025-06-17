@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-ahmed-s" alt="jawad-ahmed-s" /></a> </p>
 
-- 🔭 I’m currently working on [Avion (Health-care MarketPlace)](https://health-care-market-place.vercel.app/)
 
-- 🌱 I’m currently learning **Python - Pandas & Numpy**
+- 🌱 I’m currently learning **Open AI SDK for AI Agents**
 
 - 💬 Ask me about **React,Next JS**
 
-- 📫 How to reach me **ahmedjawad.work@gmail.com**
+- 📫 How to reach me **jawadahmed.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
